@@ -1,0 +1,26 @@
+{
+  "name": "pixijsbasicseed",
+  "version": "1.0.0",
+  "description": "basic pixijs project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablogcardoso/PixiJsSeedBasic.git"
+  },
+  "keywords": [
+    "pixijs"
+  ],
+  "author": "Pablo Gaston Cardoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablogcardoso/PixiJsSeedBasic/issues"
+  },
+  "homepage": "https://github.com/pablogcardoso/PixiJsSeedBasic#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pixi.js": "^4.6.0"
+  }
+}
