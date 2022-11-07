@@ -1,7 +1,7 @@
 # PixiJsSeed#
 Basic structure for PixiJs project with phisycs 
 ## Specs
-- Use Angular 4.x or leter
+- Use Pixi 4.x or leter
 - Need Nodejs 6.x or leter
 
 
